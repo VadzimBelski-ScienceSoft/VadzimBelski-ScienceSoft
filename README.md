@@ -2,8 +2,8 @@
 
 - 🌱 Certifications
 
-![TOGAF Certified](https://images.credly.com/size/680x680/images/50b366b1-43d9-4b09-847d-761a6268fd5c/image.png)
-![AWS Solution Architect](https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 - 📫 How to reach me: https://belski.me
 
