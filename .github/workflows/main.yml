@@ -14,3 +14,4 @@ jobs:
         with:       
           CREDLY_USER: vadzim-belski # optional, but default will use the same from github
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          INPUT_GH_TOKEN: ${{ secrets.GH_TOKEN }}
