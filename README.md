@@ -3,6 +3,7 @@
 - 🌱 Certifications
 
 <!--START_SECTION:badges-->
+[![The Open Group Certified: TOGAF® Enterprise Architecture Practitioner](https://images.credly.com/size/110x110/images/e36934b0-9b77-4bef-bf0c-a479c6c4f660/image.png)](http://www.credly.com/badges/3ad1188e-c8c3-4942-8527-5c46347d66a4 "The Open Group Certified: TOGAF® Enterprise Architecture Practitioner")
 [![The Open Group Certified: TOGAF® Enterprise Architecture Foundation](https://images.credly.com/size/110x110/images/50b366b1-43d9-4b09-847d-761a6268fd5c/image.png)](http://www.credly.com/badges/deef1b39-1899-4e64-a662-3e755ebb5e0f "The Open Group Certified: TOGAF® Enterprise Architecture Foundation")
 [![AWS Certified AI Practitioner Early Adopter](https://images.credly.com/size/110x110/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png)](http://www.credly.com/badges/58f4f19f-a733-45b5-84cc-73e13478c7b3 "AWS Certified AI Practitioner Early Adopter")
 [![AWS Certified AI Practitioner](https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](http://www.credly.com/badges/6387bd31-23b6-4125-ba43-6ee9889ae6bc "AWS Certified AI Practitioner")
