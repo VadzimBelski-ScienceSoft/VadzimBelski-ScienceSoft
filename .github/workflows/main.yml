@@ -12,4 +12,4 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:       
           CREDLY_USER: vadzim-belski # optional, but default will use the same from github
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
